@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT-HienThiSoChanLe/BT-HienThiSoChanLe.iml" filepath="$PROJECT_DIR$/BT-HienThiSoChanLe/BT-HienThiSoChanLe.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT-TaoThreadDonGian/BT-TaoThreadDonGian.iml" filepath="$PROJECT_DIR$/BT-TaoThreadDonGian/BT-TaoThreadDonGian.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-RacingCars/TH-RacingCars.iml" filepath="$PROJECT_DIR$/TH-RacingCars/TH-RacingCars.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2week4(Threading).iml" filepath="$PROJECT_DIR$/module2week4(Threading).iml" />
